@@ -1,0 +1,9 @@
+C:\Users\maleg\Dropbox\University\Tercer año 1er semestre\Programación Orientada a Objetos\Laboratorios\Laboratorio7_MatiasLeguer\Laboratorio7_MatiasLeguer\bin\Debug\Laboratorio7_MatiasLeguer.exe.config
+C:\Users\maleg\Dropbox\University\Tercer año 1er semestre\Programación Orientada a Objetos\Laboratorios\Laboratorio7_MatiasLeguer\Laboratorio7_MatiasLeguer\bin\Debug\Laboratorio7_MatiasLeguer.exe
+C:\Users\maleg\Dropbox\University\Tercer año 1er semestre\Programación Orientada a Objetos\Laboratorios\Laboratorio7_MatiasLeguer\Laboratorio7_MatiasLeguer\bin\Debug\Laboratorio7_MatiasLeguer.pdb
+C:\Users\maleg\Dropbox\University\Tercer año 1er semestre\Programación Orientada a Objetos\Laboratorios\Laboratorio7_MatiasLeguer\Laboratorio7_MatiasLeguer\obj\Debug\Laboratorio7_MatiasLeguer.csprojAssemblyReference.cache
+C:\Users\maleg\Dropbox\University\Tercer año 1er semestre\Programación Orientada a Objetos\Laboratorios\Laboratorio7_MatiasLeguer\Laboratorio7_MatiasLeguer\obj\Debug\Laboratorio7_MatiasLeguer.Form1.resources
+C:\Users\maleg\Dropbox\University\Tercer año 1er semestre\Programación Orientada a Objetos\Laboratorios\Laboratorio7_MatiasLeguer\Laboratorio7_MatiasLeguer\obj\Debug\Laboratorio7_MatiasLeguer.Properties.Resources.resources
+C:\Users\maleg\Dropbox\University\Tercer año 1er semestre\Programación Orientada a Objetos\Laboratorios\Laboratorio7_MatiasLeguer\Laboratorio7_MatiasLeguer\obj\Debug\Laboratorio7_MatiasLeguer.csproj.GenerateResource.cache
+C:\Users\maleg\Dropbox\University\Tercer año 1er semestre\Programación Orientada a Objetos\Laboratorios\Laboratorio7_MatiasLeguer\Laboratorio7_MatiasLeguer\obj\Debug\Laboratorio7_MatiasLeguer.exe
+C:\Users\maleg\Dropbox\University\Tercer año 1er semestre\Programación Orientada a Objetos\Laboratorios\Laboratorio7_MatiasLeguer\Laboratorio7_MatiasLeguer\obj\Debug\Laboratorio7_MatiasLeguer.pdb
